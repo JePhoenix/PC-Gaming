@@ -1,4 +1,4 @@
-# PC-Gaming
+# Descent Underground
 
 This Input.ini file was created by changing the settings in-game, within Descent Underground.
 To use it, you will need to replace the current Input.ini file, located in your user folder within Windows.
