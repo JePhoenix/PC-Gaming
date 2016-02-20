@@ -1,0 +1,15 @@
+# PC-Gaming
+
+This Input.ini file was created by changing the settings in-game, within Descent Underground.
+To use it, you will need to replace the current Input.ini file, located in your user folder within Windows. (path below)
+
+Location of the Input.ini file on Windows 7/8/10: %UserProfile%\AppData\Local\Descent\Saved\Config\WindowsNoEditor
+
+To use the Input.ini file... 
+1. Install Descent Underground on Steam.
+2. Run the game once to make sure it adds all of the correct files/folders.
+3. Close the game.
+4. Copy the text in my Input.ini file into your own Input.ini file (Located in this location: %UserProfile%\AppData\Local\Descent\Saved\Config\WindowsNoEditor)
+5. Save your Input.ini file.
+6. Close the text editor.
+7. Run the game. You should now be able to play the game with this keyboard-only configuration.
